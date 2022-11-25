@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "name": "exercicio_nodes",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arthurbhs/Exercicio_nodes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arthurbhs/Exercicio_nodes/issues"
+  },
+  "homepage": "https://github.com/Arthurbhs/Exercicio_nodes#readme"
+}
